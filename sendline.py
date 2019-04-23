@@ -27,4 +27,4 @@ def sendimage(url):
 
 #sendtext('Hello world')
 #sticker(1,1) #check sticker_id and package_id from sticker.pdf
-#sendimage('https://www.test.com/test.jpg') #image url
+#sendimage('http://uncle-engineer.com/loongtu.jpg') #image url
